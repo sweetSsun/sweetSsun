@@ -1,4 +1,8 @@
 ### Hi there 👋
+신입개발자 김지선
+
+<h2> My tech stack </h2>
+![HTML5](http://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 
 <!--
 **sweetSsun/sweetSsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
